@@ -1,0 +1,7 @@
+---
+---
+float32 voltage
+float32 temperature
+float32 percentage
+string location
+string serial_number
